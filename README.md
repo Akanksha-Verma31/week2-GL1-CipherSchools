@@ -21,14 +21,14 @@ This repository contains all the codes along with notes and documentation of the
 	
 ## :page_facing_up: Daily Tasks
 - [x] Creating Golang Application [Part1] (30 Jan 2023)
-- [x] Creating Golang Application [Part2] (31 Jan 2023)
-- [x] Golang application [Part1] (1 Feb 2023)
-- [x] Golang application [Part2] (1 Feb 2023)
-- [x] JSON in golang (2 Feb 2023)
-- [x] Goroutine concurrency Method (3 Feb 2023)
-- [x] Goroutine concurrency (3 Feb 2023)
-- [x] Problems based on concurrency [Part-1] (4 Feb 2023)
-- [x] Problems based on concurrency [Part-1] (4 Feb 2023)
+- [x] Creating Golang Application [Part2] (30 Jan 2023)
+- [x] Golang application [Part1] (31 Jan 2023)
+- [x] Golang application [Part2] (31 Jan 2023)
+- [x] JSON in golang (1 Feb 2023)
+- [x] Goroutine concurrency Method (1 Feb 2023)
+- [x] Goroutine concurrency (1 Feb 2023)
+- [x] Problems based on concurrency [Part-1] (2 Feb 2023)
+- [x] Problems based on concurrency [Part-1] (2 Feb 2023)
 
 <br><br><br>
 <p align="center">
