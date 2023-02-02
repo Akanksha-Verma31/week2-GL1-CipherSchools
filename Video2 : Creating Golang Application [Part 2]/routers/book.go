@@ -22,6 +22,6 @@ func BookRouter(router *gin.Engine, api handler.Handler) {
 }
 
 /*
-http://localhost:8080/book/11         - params
+http://localhost:8080/book/11  - params
 http://localhost:8080/book?id=11&name=abc	  - query
 */
